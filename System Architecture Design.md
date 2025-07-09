@@ -1,4 +1,4 @@
-# System Architecture Design
+# README
 
 ## High-Level Architecture
 
