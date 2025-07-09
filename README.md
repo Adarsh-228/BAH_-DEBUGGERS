@@ -1,4 +1,4 @@
-# India Spatial Analysis Agent
+# BHUGARBH - India Spatial Analysis Agent
 
 ## Overview
 
