@@ -91,6 +91,8 @@ npm run dev --host
 ```
 
 The frontend application will be accessible at `http://localhost:5173`.
+video prototype -
+https://github.com/user-attachments/assets/e7c0808b-9135-4678-bf09-8df5779c6ccd
 
 ## 💡 Usage
 
